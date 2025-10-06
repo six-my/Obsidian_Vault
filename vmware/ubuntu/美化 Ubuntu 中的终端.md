@@ -26,7 +26,7 @@ sudo apt install chrome-gnome-shell gnome-tweaks gnome-shell-extensions -y
 
 四、访问 https://link.zhihu.com/?target=http%3A//extensions.gnome.org ，安装 Dash to Panel 扩展，如下：
 
-![[../../assets/vmware/ubuntu/美化 Ubuntu 中的终端/美化 Ubuntu 中的终端-20251006214803295.webp]]
+![](../../assets/vmware/ubuntu/美化%20Ubuntu%20中的终端/美化%20Ubuntu%20中的终端-20251006214803295.webp)
 
 ```text
 sudo apt install neofetch

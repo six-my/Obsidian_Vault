@@ -18,9 +18,9 @@ i18n 是一款用于翻译 Obsidian 插件的插件，入门用户可以一键�
 - 在Github Releases中下载 `main.js`、`manifest.json` 和 `style.css` 三个文件并放入obsidian插件目录下的 `i18n` 文件夹
 - 在obsidian设置中确认本插件已启用
 
-![[../assets/obsidian/Obsidian插件翻译/Obsidian插件翻译-20251006214802909.png]]
+![](../assets/obsidian/Obsidian插件翻译/Obsidian插件翻译-20251006214802909.png)
 
-![[../assets/obsidian/Obsidian插件翻译/Obsidian插件翻译-20251006214803008.png]]
+![](../assets/obsidian/Obsidian插件翻译/Obsidian插件翻译-20251006214803008.png)
 
 > 参考链接：
 > 

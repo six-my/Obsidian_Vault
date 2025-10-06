@@ -22,7 +22,7 @@ lang: ""
 
 ### 基本命令结构
 
-​​![[../assets/windows/Windows带文件时间戳和属性复制文件/Windows带文件时间戳和属性复制文件-20251006214803322.avif]]
+​​![](../assets/windows/Windows带文件时间戳和属性复制文件/Windows带文件时间戳和属性复制文件-20251006214803322.avif)
 
 Robocopy 是一个没有图形界面的纯命令行工具，它的基本命令格式如下：
 
@@ -75,7 +75,7 @@ Robocopy 是理想的备份工具。以下是将 D:\ 盘的所有文件备份到
 robocopy D:\ E:\Backup\ /E /XO /XD "$RECYCLE.BIN" "System Volume Information" /R:3 /MT:32 /V
 ```
 
-​![[../assets/windows/Windows带文件时间戳和属性复制文件/Windows带文件时间戳和属性复制文件-20251006214803340.avif]]​
+​![](../assets/windows/Windows带文件时间戳和属性复制文件/Windows带文件时间戳和属性复制文件-20251006214803340.avif)​
 
 关键参数解析：
 
@@ -107,7 +107,7 @@ net use \\NetworkServer\Backup /user:domain\username password
 robocopy C:\ImportantData \\NetworkServer\Backup\ImportantData /MIR /TBD /ZB /W:5 /R:3 /MT:16
 ```
 
-​​![[../assets/windows/Windows带文件时间戳和属性复制文件/Windows带文件时间戳和属性复制文件-20251006214803364.avif]]
+​​![](../assets/windows/Windows带文件时间戳和属性复制文件/Windows带文件时间戳和属性复制文件-20251006214803364.avif)
 
 关键参数解析：
 
@@ -126,7 +126,7 @@ robocopy C:\ImportantData \\NetworkServer\Backup\ImportantData /MIR /TBD /ZB /W:
 robocopy E:\LargeFolder F:\FolderBackup /E /J
 ```
 
-​​![[../assets/windows/Windows带文件时间戳和属性复制文件/Windows带文件时间戳和属性复制文件-20251006214803385.avif]]
+​​![](../assets/windows/Windows带文件时间戳和属性复制文件/Windows带文件时间戳和属性复制文件-20251006214803385.avif)
 
 关键参数解析：
 

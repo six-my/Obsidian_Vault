@@ -10,7 +10,7 @@ draft: false
 lang: ""
 ---
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801307.jpeg]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801307.jpeg)
 
 ## 序言
 
@@ -32,7 +32,7 @@ Ads. 欢迎Fork或Star我的Non-GKI内核自动化项目，不管是自用，还
 
 安装好后，你会看到
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801344.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801344.png)
 
 <p align="center">VMware界面</p>
 
@@ -48,25 +48,25 @@ Arch Linux：所谓的极客发行版，但是其软件包更新频率极高，�
 
 我们去哪里下载镜像呢？找镜像源，我这里推荐清华大学镜像源（mirrors.tuna.tsinghua.edu.cn），当然你也可以选择USTC等等，如果你有需求，可以访问校园镜像联合站（mirrors.cernet.edu.cn）
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801380.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801380.png)
 
 <p align="center">清华大学镜像源</p>
 
 点击“获取下载链接”，左侧找到“Ubuntu”，右侧找到“24.10 (amd64, Desktop LiveDVD)”并下载（如果你需要Python2，则安装22.04版本）
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801424.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801424.png)
 
 <p align="center">下载镜像</p>
 
 下载结束后，我们打开VMware，点击-“创建新的虚拟机”，选择“自定义（高级）”后点击“下一步”，看到“兼容性”后继续下一步，看到“安装客户机操作系统后”选择“安装程序光盘映像文件”点击浏览并找到你刚刚下载好的ISO镜像文件，点击“打开”，这时候会提示已检测到XXX，此时“下一步”
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801511.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801511.png)
 
 <p align="center">选择镜像文件</p>
 
 在“简易安装信息”中，全名就是昵称，用户名是用来登录的名称，密码一定要填写，Linux的权限管理严格，因此密码一定要填写并记住。（但实际上一会安装的时候还是需要重新填写）
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801539.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801539.png)
 
 <p align="center">用户信息</p>
 
@@ -74,7 +74,7 @@ Arch Linux：所谓的极客发行版，但是其软件包更新频率极高，�
 
 下一步后，“此虚拟机的内存”中，我们填写的内存大概是本机的一半，例如我是8GB（8192MB）内存，则填写4096M，然后“下一步”，“网络”保持NAT“下一步”，“SCSI控制器”我们保持默认“下一步”，“磁盘类型”默认“下一步”，“选择磁盘”默认“创建新虚拟磁盘”“下一步”
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801578.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801578.png)
 
 <p align="center">磁盘大小</p>
 
@@ -82,11 +82,11 @@ Arch Linux：所谓的极客发行版，但是其软件包更新频率极高，�
 
 启动虚拟机后，我们根据Ubuntu的提示进行安装即可（不安装额外软件、擦除磁盘并安装Ubuntu），我们需要耐心等待，安装时间在20-60分钟不等，取决于你的设备和网络
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801614.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801614.png)
 
 <p align="center">Ubuntu用户设置</p>
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801658.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801658.png)
 
 <p align="center">Ubuntu安装</p>
 
@@ -96,7 +96,7 @@ Arch Linux：所谓的极客发行版，但是其软件包更新频率极高，�
 
 “终端”很有用，我们在Linux下要大量使用终端进行操作，因此可以在左侧找到“终端”Logo，右键“收藏”（Pin to Dock）
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801712.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801712.png)
 
 <p align="center">终端</p>
 
@@ -107,7 +107,7 @@ sudo apt-get install git ccache automake flex lzop bison gperf build-essential z
 ```
 
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801765.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801765.png)
 
 <p align="center">安装基础软件包</p>
 
@@ -120,7 +120,7 @@ sudo apt-get install git ccache automake flex lzop bison gperf build-essential z
 mkdir -p Kernel && mkdir -p Gcc && mkdir -p Clang
 ```
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801794.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801794.png)
 
 <p align="center">文件管理器</p>
 
@@ -132,7 +132,7 @@ mkdir -p Kernel && mkdir -p Gcc && mkdir -p Clang
 
 我们要如何寻找呢？首先用firefox打开Github.com
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801844.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801844.png)
 
 <p align="center">搜索</p>
 
@@ -144,7 +144,7 @@ mkdir -p Kernel && mkdir -p Gcc && mkdir -p Clang
 
 3.或者搜索你的手机代号（查询地址：storage.googleapis.com/play_public/supported_devices.html），关键词组合：kernel 手机代号（kernel polaris）
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801881.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801881.png)
 
 <p align="center">内核搜索</p>
 
@@ -152,7 +152,7 @@ mkdir -p Kernel && mkdir -p Gcc && mkdir -p Clang
 
 因为我们是一加8，因此完美符合该内核适配的机型（小米10系和一加8系）
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801929.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801929.png)
 
 <p align="center">Realking内核</p>
 
@@ -160,7 +160,7 @@ mkdir -p Kernel && mkdir -p Gcc && mkdir -p Clang
 
 （通常分支会展示该内核适配的Android版本，OS，或者设备这样，包括但不限于Lineage-21代表适配的是类原生LineageOS21，而11.0代表适配Android11等等，但是需要你自己分辨）
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801956.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214801956.png)
 
 <p align="center">Git获取</p>
 
@@ -173,7 +173,7 @@ git clone --recursive XXX.git -b op-staging Kernel/android_kernel （自行替�
 
 （git clone是git软件包提供的克隆repo功能，recursive能够保证能将submodule一同git下来，-b代表选择分支，Kernel/xxx代表git repo后生成的文件夹）
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802012.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214802012.png)
 
 <p align="center">你最好不要遇到submodule错误</p>
 
@@ -183,7 +183,7 @@ git clone --recursive XXX.git -b op-staging Kernel/android_kernel （自行替�
 
 输入ls -al ./后，则会展示当前源码下所有文件
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802045.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214802045.png)
 
 <p align="center">内核目录</p>
 
@@ -215,7 +215,7 @@ git方式同上，你需要学会举一反三
 
 到这里，你已经获取到Gcc/gcc-64，Gcc/gcc-32，Clang/clang-llvm了，那么我们就可以开始工作了
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802142.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214802142.png)
 
 <p align="center">三个目录并排展示</p>
 
@@ -253,7 +253,7 @@ export CLANG_TRIPLE=aarch64-linux-gnu-
 make CC="ccache clang" NM=llvm-nm OBJDUMP=llvm-objdump STRIP=llvm-strip vendor/kona-perf_defconfig
 ```
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802173.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214802173.png)
 
 <p align="center">执行成功后如此提示</p>
 
@@ -263,13 +263,13 @@ make CC="ccache clang" NM=llvm-nm OBJDUMP=llvm-objdump STRIP=llvm-strip vendor/k
 make -j$(nproc --all) CC="ccache clang" NM=llvm-nm OBJDUMP=llvm-objdump STRIP=llvm-strip
 ```
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802211.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214802211.png)
 
 <p align="center">开始编译</p>
 
 若是很顺利，就会像截图中的那样提示，没有Error 2，并生成了Image/Image.gz/Image.gz-dtb
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802258.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214802258.png)
 
 <p align="center">编译成功</p>
 
@@ -340,7 +340,7 @@ mkbootimg/unpack_bootimg.py --boot_img boot.img
 
 （如果你的探索之心能够支撑你坚持下去，不妨拆开我的Non-GKI自动化编译项目中的示例yaml来获取生成的方式吧）
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802312.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214802312.png)
 
 <p align="center">所需文件</p>
 
@@ -362,7 +362,7 @@ eval "mkbootimg/mkbootimg.py $FORMAT_MKBOOTING -o boot_realking.img"
 
 找到“手动修改内核源码”章节
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802355.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214802355.png)
 
 <p align="center">修补</p>
 
@@ -374,7 +374,7 @@ eval "mkbootimg/mkbootimg.py $FORMAT_MKBOOTING -o boot_realking.img"
 
 首先你可以通过直接打开kate，或者像我一样，kate fs/exec.c
 
-![[../assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802396.png]]
+![](../assets/kernel/旧内核也吃KernelSU计划%20-%20第一期/旧内核也吃KernelSU计划%20-%20第一期-20251006214802396.png)
 
 <p align="center">修补完整</p>
 

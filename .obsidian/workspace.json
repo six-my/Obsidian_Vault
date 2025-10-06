@@ -11,17 +11,30 @@
             "id": "561bcd76e3750bd3",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801307.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "旧内核也吃KernelSU计划 - 第一期-20251006214801307"
+            }
+          },
+          {
+            "id": "05829df235916311",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "接口/电脑主板接口针脚定义.md",
+                "file": "vmware/ubuntu/美化 Ubuntu 中的终端.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "电脑主板接口针脚定义"
+              "title": "美化 Ubuntu 中的终端"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +197,13 @@
       "file-cleaner-redux:清理文件": false
     }
   },
-  "active": "561bcd76e3750bd3",
+  "active": "05829df235916311",
   "lastOpenFiles": [
-    "接口/USB.md",
+    "kernel/旧内核也吃KernelSU计划 - 第一期.md",
+    "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801307.jpeg",
+    "kernel/本地镜像站搭建.md",
     "接口/电脑主板接口针脚定义.md",
+    "接口/USB.md",
     "blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记).md",
     "未命名.md",
     "Untitled.md",
@@ -217,7 +233,6 @@
     "assets/blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记)/Blender基础操作(KurTips教程笔记)-20251006214234932.png",
     "assets/blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记)/Blender基础操作(KurTips教程笔记)-20251006214153450.png",
     "assets/blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记)/Blender基础操作(KurTips教程笔记)-20251006214058462.png",
-    "assets/blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记)/Blender基础操作(KurTips教程笔记)-20251006214022176.png",
     "assets/blender/Blender零基础入门教程.md",
     "电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级.md",
     "验货/smart清零.md",
@@ -228,9 +243,6 @@
     "windows/CPU架构关系.md",
     "windows/win10右键菜单管理与删除（个人认为最好的方法）.md",
     "windows/禁用Win10驱动程序强制签名验证.md",
-    "vscode/c/VS Code配置C语言开发环境.md",
-    "验货/固态硬盘验货小白攻略.md",
-    "obsidian/Markdown 教程/MarkDown超级教程+Obsidian版+2022.1.12.md",
-    "obsidian/Markdown 教程/MarkDown超级教程+Obsidian版+2022.1.12 - 副本.md"
+    "vscode/c/VS Code配置C语言开发环境.md"
   ]
 }
