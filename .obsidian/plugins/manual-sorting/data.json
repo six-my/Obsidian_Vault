@@ -1,0 +1,336 @@
+{
+  "customFileOrder": {
+    "/": [
+      "assets",
+      "blender",
+      "接口",
+      "验货",
+      "电脑测试",
+      "电脑选购",
+      "vscode",
+      "windows",
+      "kernel",
+      "obsidian",
+      "vmware",
+      "上标,下标1-9数字,26个字母等小字符大全.md",
+      "ChipGenius (芯片精灵) V4.21.0701.md",
+      "如何查看在 Github上的注册时间.md"
+    ],
+    "电脑测试": [
+      "电脑测试/内存测试.md"
+    ],
+    "电脑选购": [
+      "电脑选购/台式机"
+    ],
+    "电脑选购/台式机": [
+      "电脑选购/台式机/显示器"
+    ],
+    "电脑选购/台式机/显示器": [
+      "电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级.md"
+    ],
+    "接口": [
+      "接口/USB.md",
+      "接口/电脑主板接口针脚定义.md",
+      "接口/雷电.md",
+      "接口/串口与并口.md"
+    ],
+    "验货": [
+      "验货/机械硬盘新盘验货小白攻略.md",
+      "验货/固态硬盘验货小白攻略.md",
+      "验货/显示器检测指南.md",
+      "验货/smart清零.md"
+    ],
+    "assets": [
+      "assets/电脑测试",
+      "assets/电脑选购",
+      "assets/接口",
+      "assets/验货",
+      "assets/ChipGenius (芯片精灵) V4.21.0701",
+      "assets/kernel",
+      "assets/obsidian",
+      "assets/vmware",
+      "assets/windows"
+    ],
+    "assets/电脑测试": [
+      "assets/电脑测试/内存测试"
+    ],
+    "assets/电脑测试/内存测试": [
+      "assets/电脑测试/内存测试/内存测试-20251006214804205.zip"
+    ],
+    "assets/电脑选购": [
+      "assets/电脑选购/台式机"
+    ],
+    "assets/电脑选购/台式机": [
+      "assets/电脑选购/台式机/显示器"
+    ],
+    "assets/电脑选购/台式机/显示器": [
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级"
+    ],
+    "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级": [
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214805632.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214805661.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214805695.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214805726.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214805760.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214805796.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214805864.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214805900.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214805927.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214805962.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214805999.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806030.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806057.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806083.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806112.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806169.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806144.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806200.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806265.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806228.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806382.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806324.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806350.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806296.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806415.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806448.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806477.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806512.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806581.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806613.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806649.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806686.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806720.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806749.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806784.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806813.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806848.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806884.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806926.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806960.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214806999.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214807038.jpeg",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214807068.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214807108.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214807145.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214807185.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214807235.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214807282.png",
+      "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214807331.jpeg"
+    ],
+    "assets/接口": [
+      "assets/接口/串口与并口",
+      "assets/接口/电脑主板接口针脚定义",
+      "assets/接口/USB"
+    ],
+    "assets/接口/串口与并口": [
+      "assets/接口/串口与并口/串口与并口-20251006214803622.jpg",
+      "assets/接口/串口与并口/串口与并口-20251006214803668.jpg"
+    ],
+    "assets/接口/电脑主板接口针脚定义": [
+      "assets/接口/电脑主板接口针脚定义/电脑主板接口针脚定义-20251006214803701.avif",
+      "assets/接口/电脑主板接口针脚定义/电脑主板接口针脚定义-20251006214803760.avif",
+      "assets/接口/电脑主板接口针脚定义/电脑主板接口针脚定义-20251006214803807.avif",
+      "assets/接口/电脑主板接口针脚定义/电脑主板接口针脚定义-20251006214803863.avif",
+      "assets/接口/电脑主板接口针脚定义/电脑主板接口针脚定义-20251006214803913.avif",
+      "assets/接口/电脑主板接口针脚定义/电脑主板接口针脚定义-20251006214803966.avif",
+      "assets/接口/电脑主板接口针脚定义/电脑主板接口针脚定义-20251006214804006.avif",
+      "assets/接口/电脑主板接口针脚定义/电脑主板接口针脚定义-20251006214804104.avif",
+      "assets/接口/电脑主板接口针脚定义/电脑主板接口针脚定义-20251006214804137.avif"
+    ],
+    "assets/接口/USB": [
+      "assets/接口/USB/USB-20251006214803495.jpg",
+      "assets/接口/USB/USB-20251006214803514.jpg",
+      "assets/接口/USB/USB-20251006214803538.jpg",
+      "assets/接口/USB/USB-20251006214803583.jpg"
+    ],
+    "assets/验货": [
+      "assets/验货/固态硬盘验货小白攻略",
+      "assets/验货/机械硬盘新盘验货小白攻略",
+      "assets/验货/显示器检测指南"
+    ],
+    "assets/验货/固态硬盘验货小白攻略": [
+      "assets/验货/固态硬盘验货小白攻略/固态硬盘验货小白攻略-20251006214804238.jpg",
+      "assets/验货/固态硬盘验货小白攻略/固态硬盘验货小白攻略-20251006214804270.jpg",
+      "assets/验货/固态硬盘验货小白攻略/固态硬盘验货小白攻略-20251006214804319.jpg"
+    ],
+    "assets/验货/机械硬盘新盘验货小白攻略": [
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214804733.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214804763.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214804801.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214804850.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214804882.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214804932.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214804962.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214805005.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214805046.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214805084.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214805127.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214805213.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214805235.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214805280.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214805313.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214805417.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214805499.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214805548.avif",
+      "assets/验货/机械硬盘新盘验货小白攻略/机械硬盘新盘验货小白攻略-20251006214805369.jpg"
+    ],
+    "assets/验货/显示器检测指南": [
+      "assets/验货/显示器检测指南/显示器检测指南-20251006214804370.jpg",
+      "assets/验货/显示器检测指南/显示器检测指南-20251006214804400.jpg",
+      "assets/验货/显示器检测指南/显示器检测指南-20251006214804436.jpg",
+      "assets/验货/显示器检测指南/显示器检测指南-20251006214804492.jpg",
+      "assets/验货/显示器检测指南/显示器检测指南-20251006214804531.jpg",
+      "assets/验货/显示器检测指南/显示器检测指南-20251006214804561.jpg",
+      "assets/验货/显示器检测指南/显示器检测指南-20251006214804605.jpg",
+      "assets/验货/显示器检测指南/显示器检测指南-20251006214804682.jpg"
+    ],
+    "assets/ChipGenius (芯片精灵) V4.21.0701": [
+      "assets/ChipGenius (芯片精灵) V4.21.0701/ChipGenius (芯片精灵) V4.21.0701-20251006214801241.exe"
+    ],
+    "assets/kernel": [
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期",
+      "assets/kernel/一起来编译！面对小白的ROM编译教程（完全体）（可能是唯一有用的ROM编译教程（？））"
+    ],
+    "assets/kernel/旧内核也吃KernelSU计划 - 第一期": [
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801307.jpeg",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801344.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801424.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801380.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801511.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801539.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801578.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801614.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801658.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801712.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801765.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801794.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801844.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801881.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801929.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801956.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802012.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802045.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802142.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802173.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802211.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802258.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802312.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802355.png",
+      "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214802396.png"
+    ],
+    "assets/kernel/一起来编译！面对小白的ROM编译教程（完全体）（可能是唯一有用的ROM编译教程（？））": [
+      "assets/kernel/一起来编译！面对小白的ROM编译教程（完全体）（可能是唯一有用的ROM编译教程（？））/一起来编译！面对小白的ROM编译教程（完全体）（可能是唯一有用的ROM编译教程（？））-20251006214801288.jpeg"
+    ],
+    "assets/obsidian": [
+      "assets/obsidian/Markdown 教程",
+      "assets/obsidian/Obsidian插件翻译",
+      "assets/obsidian/Obsidian附件管理"
+    ],
+    "assets/obsidian/Markdown 教程": [
+      "assets/obsidian/Markdown 教程/MarkDown超级教程+Obsidian版+2022.1.12"
+    ],
+    "assets/obsidian/Markdown 教程/MarkDown超级教程+Obsidian版+2022.1.12": [
+      "assets/obsidian/Markdown 教程/MarkDown超级教程+Obsidian版+2022.1.12/MarkDown超级教程+Obsidian版+2022.1.12-20251006214802448.png",
+      "assets/obsidian/Markdown 教程/MarkDown超级教程+Obsidian版+2022.1.12/MarkDown超级教程+Obsidian版+2022.1.12-20251006214802487.gif",
+      "assets/obsidian/Markdown 教程/MarkDown超级教程+Obsidian版+2022.1.12/MarkDown超级教程+Obsidian版+2022.1.12-20251006214802595.gif",
+      "assets/obsidian/Markdown 教程/MarkDown超级教程+Obsidian版+2022.1.12/MarkDown超级教程+Obsidian版+2022.1.12-20251006214802705.jpg",
+      "assets/obsidian/Markdown 教程/MarkDown超级教程+Obsidian版+2022.1.12/MarkDown超级教程+Obsidian版+2022.1.12-20251006214802807.zip"
+    ],
+    "assets/obsidian/Obsidian插件翻译": [
+      "assets/obsidian/Obsidian插件翻译/Obsidian插件翻译-20251006214802909.png",
+      "assets/obsidian/Obsidian插件翻译/Obsidian插件翻译-20251006214803008.png"
+    ],
+    "assets/obsidian/Obsidian附件管理": [
+      "assets/obsidian/Obsidian附件管理/Obsidian附件管理-20251006214803095.png",
+      "assets/obsidian/Obsidian附件管理/Obsidian附件管理-20251006214803050.png"
+    ],
+    "assets/vmware": [
+      "assets/vmware/ubuntu"
+    ],
+    "assets/vmware/ubuntu": [
+      "assets/vmware/ubuntu/美化 Ubuntu 中的终端",
+      "assets/vmware/ubuntu/主机与VMware虚拟机共享文件夹"
+    ],
+    "assets/vmware/ubuntu/美化 Ubuntu 中的终端": [
+      "assets/vmware/ubuntu/美化 Ubuntu 中的终端/美化 Ubuntu 中的终端-20251006214803295.webp"
+    ],
+    "assets/vmware/ubuntu/主机与VMware虚拟机共享文件夹": [
+      "assets/vmware/ubuntu/主机与VMware虚拟机共享文件夹/主机与VMware虚拟机共享文件夹-20251006214803132.jpg",
+      "assets/vmware/ubuntu/主机与VMware虚拟机共享文件夹/主机与VMware虚拟机共享文件夹-20251006214803164.jpg",
+      "assets/vmware/ubuntu/主机与VMware虚拟机共享文件夹/主机与VMware虚拟机共享文件夹-20251006214803184.jpg",
+      "assets/vmware/ubuntu/主机与VMware虚拟机共享文件夹/主机与VMware虚拟机共享文件夹-20251006214803206.jpg",
+      "assets/vmware/ubuntu/主机与VMware虚拟机共享文件夹/主机与VMware虚拟机共享文件夹-20251006214803227.jpg",
+      "assets/vmware/ubuntu/主机与VMware虚拟机共享文件夹/主机与VMware虚拟机共享文件夹-20251006214803244.jpg",
+      "assets/vmware/ubuntu/主机与VMware虚拟机共享文件夹/主机与VMware虚拟机共享文件夹-20251006214803265.jpg"
+    ],
+    "assets/windows": [
+      "assets/windows/搜索引擎",
+      "assets/windows/Windows带文件时间戳和属性复制文件"
+    ],
+    "assets/windows/搜索引擎": [
+      "assets/windows/搜索引擎/搜索引擎-20251006214803413.png",
+      "assets/windows/搜索引擎/搜索引擎-20251006214803433.png"
+    ],
+    "assets/windows/Windows带文件时间戳和属性复制文件": [
+      "assets/windows/Windows带文件时间戳和属性复制文件/Windows带文件时间戳和属性复制文件-20251006214803322.avif",
+      "assets/windows/Windows带文件时间戳和属性复制文件/Windows带文件时间戳和属性复制文件-20251006214803340.avif",
+      "assets/windows/Windows带文件时间戳和属性复制文件/Windows带文件时间戳和属性复制文件-20251006214803364.avif",
+      "assets/windows/Windows带文件时间戳和属性复制文件/Windows带文件时间戳和属性复制文件-20251006214803385.avif"
+    ],
+    "blender": [
+      "blender/Blender零基础入门教程 (已完结)- kurt"
+    ],
+    "blender/Blender零基础入门教程 (已完结)- kurt": [
+      "blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记).md"
+    ],
+    "kernel": [
+      "kernel/旧内核也吃KernelSU计划 - 第一期.md",
+      "kernel/本地镜像站搭建.md",
+      "kernel/一起来编译！面对小白的ROM编译教程（完全体）（可能是唯一有用的ROM编译教程（？））.md",
+      "kernel/kernel.md"
+    ],
+    "obsidian": [
+      "obsidian/Markdown 教程",
+      "obsidian/Obsidian附件管理.md",
+      "obsidian/Obsidian插件翻译.md"
+    ],
+    "obsidian/Markdown 教程": [
+      "obsidian/Markdown 教程/MarkDown超级教程+Obsidian版+2022.1.12.md",
+      "obsidian/Markdown 教程/md常用书写格式记录.md"
+    ],
+    "vmware": [
+      "vmware/ubuntu"
+    ],
+    "vmware/ubuntu": [
+      "vmware/ubuntu/ubuntu 切换到超级用户失败的解决办法（su 认证失败）.md",
+      "vmware/ubuntu/Ubuntu下 repo的安装.md",
+      "vmware/ubuntu/ubuntu换源.md",
+      "vmware/ubuntu/主机与VMware虚拟机共享文件夹.md",
+      "vmware/ubuntu/用户友好的shell程序 —— Fish shell的安装和配置.md",
+      "vmware/ubuntu/美化 Ubuntu 中的终端.md",
+      "vmware/ubuntu/解决Ubuntu 22.04频繁杀死应用的问题：关闭systemd-oomd守护进程.md",
+      "vmware/ubuntu/更新软件包列表，安装可用的软件包更新.md",
+      "vmware/ubuntu/Linux 常用命令集合.md",
+      "vmware/ubuntu/设置 man 命令返回内容为中文.md"
+    ],
+    "vscode": [
+      "vscode/c"
+    ],
+    "vscode/c": [
+      "vscode/c/VS Code配置C语言开发环境.md"
+    ],
+    "windows": [
+      "windows/禁用Win10驱动程序强制签名验证.md",
+      "windows/win10右键菜单管理与删除（个人认为最好的方法）.md",
+      "windows/Windows带文件时间戳和属性复制文件.md",
+      "windows/右键添加复制文件夹路径和复制文件路径选项.md",
+      "windows/CPU架构关系.md",
+      "windows/搜索引擎.md",
+      "windows/Windows10 快捷键大全.md",
+      "windows/b、B、KB、Kib、MB、MiB、GB、GiB、TB、TiB的区别.md",
+      "windows/关于正版和盗版Windows系统.md"
+    ]
+  },
+  "draggingEnabled": false,
+  "selectedSortOrder": "manual-sorting"
+}

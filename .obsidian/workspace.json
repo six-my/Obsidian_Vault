@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "cb07f45b8d10cfda",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d653a867019165c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "561bcd76e3750bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "接口/电脑主板接口针脚定义.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "电脑主板接口针脚定义"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "668ccd2020f7cb6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b9ce7b9e842d90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a55c899ea4c621a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "98ad94a182e58879",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "!",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e19997ee209ce4e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "right": {
+    "id": "ed6043dc54637afe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3bf7a8113d3ac39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "562b28d400a7a8fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "dfcfda752b61f9ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "接口/电脑主板接口针脚定义.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "电脑主板接口针脚定义 的出链列表"
+            }
+          },
+          {
+            "id": "d37a248cf6656552",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fab43b7f13bd2075",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "a60e1280efd8ed12",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "i18n:I18N": false,
+      "file-cleaner-redux:清理文件": false
+    }
+  },
+  "active": "561bcd76e3750bd3",
+  "lastOpenFiles": [
+    "接口/USB.md",
+    "接口/电脑主板接口针脚定义.md",
+    "blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记).md",
+    "未命名.md",
+    "Untitled.md",
+    "未命名.base",
+    "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214805695.jpeg",
+    "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级/显示器到底怎么选（多图）保姆级-20251006214805632.jpeg",
+    "vmware/ubuntu/主机与VMware虚拟机共享文件夹.md",
+    "vmware/ubuntu/ubuntu 切换到超级用户失败的解决办法（su 认证失败）.md",
+    "obsidian/Obsidian插件翻译.md",
+    "上标,下标1-9数字,26个字母等小字符大全.md",
+    "如何查看在 Github上的注册时间.md",
+    "ChipGenius (芯片精灵) V4.21.0701.md",
+    "接口/雷电.md",
+    "assets/kernel/旧内核也吃KernelSU计划 - 第一期/旧内核也吃KernelSU计划 - 第一期-20251006214801380.png",
+    "assets/电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级",
+    "assets/电脑选购/台式机/显示器",
+    "assets/电脑选购/台式机",
+    "assets/电脑选购",
+    "assets/验货/机械硬盘新盘验货小白攻略",
+    "assets/验货/显示器检测指南",
+    "assets/验货/固态硬盘验货小白攻略",
+    "assets/验货",
+    "assets/电脑测试/内存测试",
+    "assets/blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记)/Blender基础操作(KurTips教程笔记)-20251006214346971.png",
+    "assets/blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记)/Blender基础操作(KurTips教程笔记)-20251006214329905.png",
+    "assets/blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记)/Blender基础操作(KurTips教程笔记)-20251006214301480.png",
+    "assets/blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记)/Blender基础操作(KurTips教程笔记)-20251006214234932.png",
+    "assets/blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记)/Blender基础操作(KurTips教程笔记)-20251006214153450.png",
+    "assets/blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记)/Blender基础操作(KurTips教程笔记)-20251006214058462.png",
+    "assets/blender/Blender零基础入门教程 (已完结)- kurt/Blender基础操作(KurTips教程笔记)/Blender基础操作(KurTips教程笔记)-20251006214022176.png",
+    "assets/blender/Blender零基础入门教程.md",
+    "电脑选购/台式机/显示器/显示器到底怎么选（多图）保姆级.md",
+    "验货/smart清零.md",
+    "assets/blender/Blender零基础入门教程 (已完结）- kurt/Blender基础操作（KurTips教程笔记）.md",
+    "验货/机械硬盘新盘验货小白攻略.md",
+    "验货/显示器检测指南.md",
+    "obsidian/Obsidian附件管理.md",
+    "windows/CPU架构关系.md",
+    "windows/win10右键菜单管理与删除（个人认为最好的方法）.md",
+    "windows/禁用Win10驱动程序强制签名验证.md",
+    "vscode/c/VS Code配置C语言开发环境.md",
+    "验货/固态硬盘验货小白攻略.md",
+    "obsidian/Markdown 教程/MarkDown超级教程+Obsidian版+2022.1.12.md",
+    "obsidian/Markdown 教程/MarkDown超级教程+Obsidian版+2022.1.12 - 副本.md"
+  ]
+}

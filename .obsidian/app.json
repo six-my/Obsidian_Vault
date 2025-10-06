@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "./assets",
+  "newLinkFormat": "relative",
+  "livePreview": false,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": false
+}

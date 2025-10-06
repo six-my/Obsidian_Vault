@@ -1,0 +1,10 @@
+{
+  "imageNamePattern": "{{fileName}}-{{DATE:YYYY-MM-DD-HH-mm-ss}}",
+  "dupNumberAtStart": false,
+  "dupNumberDelimiter": "-",
+  "dupNumberAlways": false,
+  "autoRename": true,
+  "handleAllAttachments": true,
+  "excludeExtensionPattern": "",
+  "disableRenameNotice": false
+}

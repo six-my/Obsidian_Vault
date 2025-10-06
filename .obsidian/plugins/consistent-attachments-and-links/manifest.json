@@ -1,0 +1,11 @@
+{
+    "id": "consistent-attachments-and-links",
+    "name": "Consistent Attachments and Links",
+    "version": "3.31.10",
+    "minAppVersion": "1.9.14",
+    "description": "此插件可确保附件和链接的一致性",
+    "author": "Dmitry Savosh",
+    "authorUrl": "https://github.com/dy-sh/",
+    "isDesktopOnly": false,
+    "fundingUrl": "https://www.buymeacoffee.com/mnaoumov"
+}
